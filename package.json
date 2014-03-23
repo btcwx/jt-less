@@ -1,0 +1,31 @@
+{
+  "name": "jt-less",
+  "version": "0.0.1",
+  "description": "less compiler for jt-cli",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "make"
+  },
+  "keywords": [
+    "less",
+    "jt-less"
+  ],
+  "config": {
+    "blanket": {
+      "pattern": "jt-less/lib"
+    }
+  },
+  "author": {
+    "name": "wyicwx",
+    "email": "wyicwx@gmail.com",
+    "web": "http://weibo.com/simplemaple"
+  },
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/wyicwx/jt-less.git"
+  },
+  "license": "MIT"
+}
