@@ -23,9 +23,12 @@
     "email": "wyicwx@gmail.com",
     "web": "http://weibo.com/simplemaple"
   },
-    "repository": {
+  "repository": {
     "type": "git",
     "url": "https://github.com/wyicwx/jt-less.git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "through2": "~0.4.1"
+  }
 }
