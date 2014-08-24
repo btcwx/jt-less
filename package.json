@@ -1,6 +1,6 @@
 {
   "name": "jt-less",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "less compiler for jt-cli",
   "main": "index.js",
   "directories": {
